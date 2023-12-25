@@ -11,10 +11,10 @@ Hello Informatics !
 
 
 4.Mencoba Console Sistem Operasi
+  ![Uploading image.png…]()
 
-   Windows CMD [v] ⭐⭐⭐⭐
 
-   Referensi 1
+
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
