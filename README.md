@@ -84,6 +84,8 @@ Hello Informatics !
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
+
 
 
 15.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
