@@ -45,6 +45,9 @@ Hello Informatics !
 
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+  ![code15](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/f83ee7ab-03b2-4e25-95e0-cdda78083f99)
+
  
   <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/08b2bc04-4047-47c7-8a16-acd10240697a">
 
@@ -58,6 +61,9 @@ Hello Informatics !
 10.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
   
    <img width="960" alt="Screenshot 2023-12-19 114314" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/25830120-92f9-4397-a7bc-ca43a2b0064f">
+
+   ![WhatsApp Image 2023-12-30 at 19 35 41_4eabef7a](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/c6f06cda-eec3-4a74-aea8-faae18fb1588)
+
 
 
 
