@@ -35,6 +35,9 @@ Hello Informatics !
 
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+  <img width="960" alt="Screenshot 2023-12-30 185742" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/3acafc41-d586-4687-9500-9e2eee077172">
+
+
 
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
