@@ -206,6 +206,9 @@ Hello Informatics !
 
 41.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+   <img width="960" alt="Screenshot 2023-12-30 232317" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/c9b7d97c-489a-4ccb-9c6f-f470f4fcbb7c">
+
+
 
 42.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
