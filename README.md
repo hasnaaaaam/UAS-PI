@@ -8,7 +8,7 @@ Hello Informatics !
   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-jenis-jenis-mesin-komputasi/
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-  <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/4e3b6e94-5e32-46e5-9694-dd2571eb5a9a">
+  <img width="960" alt="Screenshot 2023-12-26 113737" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9b26df01-ec41-448b-9834-afc653876d3c">
 
 
 4.Mencoba Console Sistem Operasi
@@ -18,7 +18,8 @@ Hello Informatics !
 
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-  "C:\Users\MODERN 14\Pictures\Screenshots\Screenshot 2023-12-25 221750.png"
+  <img width="848" alt="Screenshot 2023-12-25 221750" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/63714ff9-259d-48cd-b510-f6b5f2dbfa66">
+
 
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
@@ -28,7 +29,7 @@ Hello Informatics !
 
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-  "C:\Users\MODERN 14\Pictures\Screenshots\Screenshot 2023-12-25 224920.png"
+
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
   <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/08b2bc04-4047-47c7-8a16-acd10240697a">
@@ -52,9 +53,8 @@ Referensi installer PostgreSQL
 Referensi tambahan 1
 
 13.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+  <img width="960" alt="Screenshot 2023-12-26 115629" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9735fe59-042a-48d1-b398-7cbed8d1dd41">
 
-Referensi installer Dbeaver
-Referensi 1
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -70,25 +70,22 @@ Referensi: 1
 
 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: 1 2
+   <img width="960" alt="Screenshot 2023-12-26 120621" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/5e27b57e-a5f3-499b-b6d7-b261c66e6d14">
+
 
 17.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial
-
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
+    <img width="960" alt="Screenshot 2023-12-26 121729" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/8a4cfef8-6c34-4236-8fc0-eec0b7851c21">
 
 
 18.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+   <img width="960" alt="Screenshot 2023-12-26 122934" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/d6c8c593-16ba-4590-99e2-ad6a83cee7f3">
+
 
 19.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+
+   
 
 
 20.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
@@ -101,6 +98,9 @@ Referensi []
 
 
 23.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+
+   <img width="960" alt="Screenshot 2023-12-26 132133" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/ce1fee57-009d-4977-845c-d318e48b4b04">
+
 
 
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
