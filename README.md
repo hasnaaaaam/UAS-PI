@@ -101,12 +101,13 @@ Hello Informatics !
 
 17.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-    <img width="960" alt="Screenshot 2023-12-26 121729" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/8a4cfef8-6c34-4236-8fc0-eec0b7851c21">
+   <img width="960" alt="Screenshot 2023-12-26 122934" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/54b6c5f9-fdc6-4ce8-b1dc-26d19a128bba">
 
 
 18.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-   <img width="960" alt="Screenshot 2023-12-26 122934" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/d6c8c593-16ba-4590-99e2-ad6a83cee7f3">
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/penerapan-teknik-search-engine-optimization-seo-pada-html/
+
 
 
 19.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -116,8 +117,12 @@ Hello Informatics !
 
 20.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/cara-penggunaan-web-hosting-untuk-halaman-html/
+
 
 21.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/cara-penggunaan-web-hosting-untuk-web-service/
 
 
 22.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
