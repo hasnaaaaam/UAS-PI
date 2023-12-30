@@ -52,6 +52,8 @@ Hello Informatics !
 
 9.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/kelebihan-visual-studio-code-dan-cara-menggunakannya/
+
 
 10.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
   
