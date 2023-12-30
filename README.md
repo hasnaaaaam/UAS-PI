@@ -90,6 +90,8 @@ Hello Informatics !
 
 15.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/apa-itu-url-pengertian-fungsi-dan-contoh-strukturnya/
+
 
 
 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
