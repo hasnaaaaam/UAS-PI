@@ -2,8 +2,7 @@
 Hello Informatics !
 
 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
-
+https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 
