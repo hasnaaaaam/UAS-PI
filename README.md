@@ -2,12 +2,13 @@
 Hello Informatics !
 
 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
 
 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-jenis-jenis-mesin-komputasi/
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+  <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/4e3b6e94-5e32-46e5-9694-dd2571eb5a9a">
 
 
 4.Mencoba Console Sistem Operasi
@@ -17,19 +18,21 @@ https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-dan-mengintern
 
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+  "C:\Users\MODERN 14\Pictures\Screenshots\Screenshot 2023-12-25 221750.png"
 
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
   ![Uploading image.png…]()
 
 
-Referensi 1
 
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi 1
+  "C:\Users\MODERN 14\Pictures\Screenshots\Screenshot 2023-12-25 224920.png"
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+  <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/08b2bc04-4047-47c7-8a16-acd10240697a">
+
 
 
 9.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
