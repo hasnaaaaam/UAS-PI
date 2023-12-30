@@ -72,6 +72,9 @@ Hello Informatics !
 
 12.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+  <img width="960" alt="Screenshot 2023-12-30 193830" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/0dbd6ed3-1625-48cc-bde6-5ea3dc9c314b">
+
+
 
 
 13.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
