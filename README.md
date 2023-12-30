@@ -16,6 +16,10 @@ Hello Informatics !
 
 4.Mencoba Console Sistem Operasi
  
+ <img width="960" alt="Screenshot 2023-12-25 220937" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/ec2f49aa-768c-429e-aae0-51d75bf8fa37">
+
+ <img width="960" alt="Screenshot 2023-12-25 220937" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/6fd4a8f4-5edf-4b15-a740-e91d46c70924">
+
 
 
 
