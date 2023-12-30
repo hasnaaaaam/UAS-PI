@@ -16,7 +16,7 @@ Hello Informatics !
 
 4.Mencoba Console Sistem Operasi
  
-  ![image](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/a4941899-4ad9-4f91-b3f8-4ab3c84486f8)
+
 
 
 
@@ -29,7 +29,7 @@ Hello Informatics !
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
  
-  ![Uploading image.png…]()
+  ![image](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/a4941899-4ad9-4f91-b3f8-4ab3c84486f8)
 
 
 
