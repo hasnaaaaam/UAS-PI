@@ -209,6 +209,9 @@ Hello Informatics !
 
 42.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+   <img width="960" alt="Screenshot 2023-12-30 223734" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/81150067-3089-4c71-ad15-0c738c030118">
+
+
 
 43.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
