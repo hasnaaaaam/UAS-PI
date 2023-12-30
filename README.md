@@ -127,6 +127,7 @@ Hello Informatics !
 
 22.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/penggunaan-http-request-dan-web-api-dengan-hoppscotch-serta-postman/
 
 23.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
@@ -135,6 +136,8 @@ Hello Informatics !
 
 
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/apa-itu-aws-pengertian-layanan-amazon-web-services/
 
 
 
@@ -145,8 +148,13 @@ Hello Informatics !
 
 26.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/pengertian-canva-fitur-dan-panduan-cara-menggunakannya/
+
 
 27.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+   ![WhatsApp Image 2023-12-30 at 21 17 50_4449ea45](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/8247a47f-36e2-465c-8645-91d2ccb887dc)
+
 
 
 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
@@ -193,6 +201,8 @@ Hello Informatics !
 
 40.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-jurnal-conference-artikel-grade-jurnal/
+
 
 41.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -202,6 +212,9 @@ Hello Informatics !
 
 43.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+   <img width="862" alt="Screenshot 2023-12-30 221910" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9d56ca1b-925c-4523-a26f-64214120d3bf">
+
+
 
 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
   
@@ -209,6 +222,9 @@ Hello Informatics !
 
 
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+
+   ![WhatsApp Image 2023-12-30 at 22 20 17_d6f18b74](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/7d9394d7-36b9-4239-af24-d551fa9386ed)
+
 
 
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
@@ -227,6 +243,9 @@ Hello Informatics !
 
 
 49.Eksplorasi Top Github Project yang Diminati ⭐⭐
+
+  <img width="960" alt="Screenshot 2023-12-30 222145" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/cc58c64e-252b-4f8b-91e0-b0c5452c862d">
+
 
 
 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
