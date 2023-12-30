@@ -2,27 +2,33 @@
 Hello Informatics !
 
 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+ 
   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
 
 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+ 
   https://hasnamardiyah06gmail.wordpress.com/2023/12/30/menjelaskan-jenis-jenis-mesin-komputasi/
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+  
   <img width="960" alt="Screenshot 2023-12-26 113737" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9b26df01-ec41-448b-9834-afc653876d3c">
 
 
 4.Mencoba Console Sistem Operasi
+ 
   ![image](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/a4941899-4ad9-4f91-b3f8-4ab3c84486f8)
 
 
 
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+ 
   <img width="848" alt="Screenshot 2023-12-25 221750" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/63714ff9-259d-48cd-b510-f6b5f2dbfa66">
 
 
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+ 
   ![Uploading image.png…]()
 
 
@@ -32,6 +38,7 @@ Hello Informatics !
 
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+ 
   <img width="787" alt="Screenshot 2023-12-25 224920" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/08b2bc04-4047-47c7-8a16-acd10240697a">
 
 
@@ -40,6 +47,7 @@ Hello Informatics !
 
 
 10.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+  
    <img width="960" alt="Screenshot 2023-12-19 114314" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/25830120-92f9-4397-a7bc-ca43a2b0064f">
 
 
@@ -49,24 +57,20 @@ Hello Informatics !
 
 12.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer PostgreSQL
-Referensi tambahan 1
+
 
 13.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+ 
   <img width="960" alt="Screenshot 2023-12-26 115629" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9735fe59-042a-48d1-b398-7cbed8d1dd41">
 
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
 
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
 
 15.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: 1
+
 
 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -105,10 +109,10 @@ Referensi: 1
 
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+
 
 25.Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+  
    https://hasnamardiyah06gmail.wordpress.com/2023/12/30/parenting-menurut-islam-dalam-alquran/
 
 
@@ -140,11 +144,13 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 35.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+  
    <img width="960" alt="Screenshot 2023-12-19 112013" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/7c556160-5b31-44d8-97ce-b043056a1d3f">
    <img width="960" alt="Screenshot 2023-12-20 100821" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/00c4c78c-0619-45fa-9081-fc820b78a087">
 
 
 36.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+  
    <img width="960" alt="Screenshot 2023-12-20 095459" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/440e0ead-7767-427c-89b9-3f224bad97b1">
    <img width="960" alt="Screenshot 2023-12-20 095333" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/d4351760-6883-4ab9-9b55-98e29c775c04">
 
@@ -171,6 +177,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+  
    ![WhatsApp Image 2023-12-20 at 09 51 26_a2c66afe](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/e878a230-1027-4b90-bd89-32af840836e3)
 
 
@@ -178,14 +185,17 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+  
    ![WhatsApp Image 2023-12-20 at 09 49 06_b0605da0](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/06295f58-7428-4974-900f-2d329b9baa5f)
 
 
 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+  
    <img width="960" alt="Screenshot 2023-12-18 162851" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/2fa23a73-f4c3-4d77-9105-ff006814fc91">
 
 
 48.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+  
    <img width="530" alt="Screenshot 2023-12-20 094427" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/8c41f0e3-6992-4336-a6f5-a62e48769c9d">
 
 
@@ -193,17 +203,20 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+ 
    ![WhatsApp Image 2023-12-20 at 09 42 32_87866b20](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/15eb6ed3-70d7-4052-a4cb-28e0cc9397e5)
    ![WhatsApp Image 2023-12-20 at 09 41 28_1c1715e9](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/31fba336-b1a3-48c0-879f-1305d1839c06)
 
 
 
 51.Membangun Profil Github Page ⭐⭐⭐⭐⭐
+ 
    <img width="960" alt="Screenshot 2023-12-18 160259" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/9741da72-d0fe-49c3-be78-7c9b663a86e1">
 
 
 
 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+ 
    ![WhatsApp Image 2023-12-20 at 09 15 03_38127e7c](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/147a403f-3438-402b-bd44-b1633438c3b8)
    ![WhatsApp Image 2023-12-20 at 09 15 44_8d38d5cf](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/1c3ad38d-8127-4ca8-8cd2-714859aa5ef6)
    ![WhatsApp Image 2023-12-20 at 09 15 03_d99bb8ca](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/8673e3ac-60d4-4c14-b602-d97888c18142)
@@ -211,5 +224,6 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 53.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+  
    Judul : Dunia Kode:Petualangan di Balik Layar Teknologi Informasi
    Inspirasi : Terinspirasi dengan teknologi terkini sehingga kita berpikiran dapat mengembangkan keterampilan dan mengikuti perkembangan teknologi di dunia infomasi 
