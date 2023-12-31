@@ -67,7 +67,9 @@ Hello Informatics !
 
 
 
-11.Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+11.Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐ 
+
+   https://github.com/hasnaaaaam/goanaaa
 
 
 12.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
