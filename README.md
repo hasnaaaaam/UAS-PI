@@ -162,11 +162,27 @@ Hello Informatics !
 
 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+   https://drive.google.com/file/d/1WonEmxERjlja13m-dWiD8VgM_LNrQKAv/view?usp=sharing
+
 
 30.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+   ![WhatsApp Image 2023-12-31 at 08 58 19_f1251b47](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/1ec3106f-df94-4395-8339-aba084bd4309)
+
+   "An elegant young woman wearing a hijab sits gracefully in front of her laptop. Her face radiates a cheerful expression as she focuses on the screen before her. Behind 
+    her, there's a text that reads 'Hasna' in an elegant font, catching the eye."
+
 
 31.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
+   ![WhatsApp Image 2023-12-31 at 08 58 19_161971e4](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/fbcd99e9-32e2-453d-8d4d-8ca55aff2875)
+
+   In a detailed and comprehensive description, here's the core of the text:
+
+   "Amidst the serene ambiance, a stunning woman, gracefully adorned in a hijab, sits in front of her computer, engrossed in coding alongside her companion. Their focused 
+    expressions denote a deep engagement with the task at hand. Behind them, the words 'Coding with Hasna' adorn the space, encapsulating the essence of their collaborative 
+    coding journey."
+
 
 
 32.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
