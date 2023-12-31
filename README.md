@@ -112,6 +112,9 @@ Hello Informatics !
 
 19.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+   <img width="960" alt="Screenshot 2023-12-31 095523" src="https://github.com/hasnaaaaam/UAS-PI/assets/144829887/f9ad5cbc-23b2-4d22-a016-04e928216f90">
+
+
    
 
 
