@@ -162,6 +162,8 @@ Hello Informatics !
 
 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/cara-pembuatan-game-dan-simulasi-menggunakan-logo/
+
 
 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -190,11 +192,17 @@ Hello Informatics !
 
 32.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/tata-cara-menggunakan-model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-huggingface/
+
 
 33.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/cara-menggunakan-tools-untuk-data-visualization/
+
 
 34.Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/cara-mennggunakan-data-visualization-dengan-code/
 
 
 35.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -211,11 +219,17 @@ Hello Informatics !
 
 37.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+  https://hasnamardiyah06gmail.wordpress.com/2023/12/31/cara-mengunakan-protokol-komunikasi-iot-mqtt/
+
 
 38.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/proses-file-csv-menggunakan-google-colab/
+
 
 39.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+   https://hasnamardiyah06gmail.wordpress.com/2023/12/31/cara-menggunakan-file-big-data-orc-menggunakan-google-colab/
 
 
 40.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
