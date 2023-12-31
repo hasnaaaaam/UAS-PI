@@ -257,7 +257,8 @@ Hello Informatics !
 
 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
   
-   ![WhatsApp Image 2023-12-20 at 09 51 26_a2c66afe](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/e878a230-1027-4b90-bd89-32af840836e3)
+  ![WhatsApp Image 2023-12-31 at 12 25 06_576b3803](https://github.com/hasnaaaaam/UAS-PI/assets/144829887/f3095afd-8e45-4e5a-8189-786a2723a831)
+
 
 
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
